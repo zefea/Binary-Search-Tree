@@ -271,6 +271,10 @@ void free_nodes(struct node *root){
 
 int main(int argc, char **argv)
 {
+	
+	
+	fcvcghbjklbhgfdxcvn b
+	
 	char fileName[25];		/*filename*/
 	printf("Please enter file name with .text\n");
 	scanf("%24s",fileName);
